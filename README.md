@@ -32,4 +32,4 @@ Responsive News Feed built with the latest Bootstrap 5. Enhance your project wit
 <!--Section: News of the day-->
 ```
 
-#### Much more examples and a detailed description can be found at [📄 News feed documentation page]
+#### Much more examples and a detailed description can be found at [📄 News feed documentation page](https://mdbootstrap.com/docs/standard/extended/news-feed/)
