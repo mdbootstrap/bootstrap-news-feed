@@ -1,25 +1,28 @@
 {
-  "name": "bootstrap-avatars",
-  "version": "1.0.4",
-  "description": "Responsive Avatars built with Bootstrap 5. Various templates like a circle avatar, square, inside the navbar, carousel, as a testimonial, profile and many more.",
-  "main": "profile.html",
+  "name": "bootstrap-news-feed",
+  "version": "1.0.0",
+  "description": "Responsive News Feed built with the latest Bootstrap 5. Enhance your project with a variety of social sections such as news feed, comments, and post cards.",
+  "main": "basic.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdbootstrap/bootstrap-avatars.git"
+    "url": "git+https://github.com/mdbootstrap/bootstrap-news-feed.git"
   },
   "keywords": [
     "bootstrap",
-    "avatar",
+    "news-feed",
     "bootstrap5",
-    "circle-image-view"
+    "feed",
+    "news",
+    "news-agregator",
+    "social-newsfeed"
   ],
   "author": "mdbootstrap",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mdbootstrap/bootstrap-avatars/issues"
+    "url": "https://github.com/mdbootstrap/bootstrap-news-feed/issues"
   },
-  "homepage": "https://mdbootstrap.com/docs/standard/extended/avatar/"
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/news-feed/"
 }
